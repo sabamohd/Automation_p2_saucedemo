@@ -1,4 +1,4 @@
-package PageObjectFiles;
+package TestFiles;
 
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
